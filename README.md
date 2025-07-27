@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This project is a solution to the QR Code Component challenge on Frontend Mentor. The goal of the challenge was to build a simple and visually accurate card layout that displays a QR code and some accompanying text.
+This project is a solution to the **QR Code Component challenge on Frontend Mentor**. The goal of the challenge was to build a simple and visually accurate card layout that displays a QR code and some accompanying text.
 
 It helped me practice writing semantic HTML and CSS, use Google Fonts, apply box shadows, and center elements using Flexbox. It was also my first time trying to follow a design closely to match spacing, colors, and typography.
 
@@ -29,8 +29,8 @@ It helped me practice writing semantic HTML and CSS, use Google Fonts, apply box
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)  
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-page-using-css-PiNIy7aJfD)  
+- Live Site URL: [Add live site URL here](https://rowanvictor01.github.io/qr-code-component/)
 
 ---
 
@@ -38,9 +38,9 @@ It helped me practice writing semantic HTML and CSS, use Google Fonts, apply box
 
 I started by carefully examining the design preview provided in the challenge files. My goal was to replicate the layout and styling as closely as possible, especially the spacing, colors, and font styles.
 
-I add a few elements to the provided HTML structure like `main`, `article`, and `figure` elements to to group related content together and to use semantic tags to ensure accessibility and clean markup. Then, I linked the Outfit font from Google Fonts in the `<head>` of the document.
+I added a few elements to the provided HTML structure like `main`, `article`, and `figure` elements to to group related content together and to use semantic tags to ensure accessibility and clean markup. Then, I linked the Outfit font from Google Fonts in the `<head>` of the document.
 
-For styling, I focused on:
+For styling, I focused on:  
 - Creating a clean card layout  
 - Applying Flexbox to center the card vertically and horizontally on the page  
 - Using `box-shadow` and `border-radius` to match the card design  
