@@ -29,8 +29,8 @@ It helped me practice writing semantic HTML and CSS, use Google Fonts, apply box
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-page-using-css-PiNIy7aJfD)  
-- Live Site URL: [Add live site URL here](https://rowanvictor01.github.io/qr-code-component/)
+- Solution URL: [Solutions in Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-page-using-css-PiNIy7aJfD)  
+- Live Site URL: [Live Demo using GitHub Pages](https://rowanvictor01.github.io/qr-code-component/)
 
 ---
 
